@@ -1,0 +1,17 @@
+# dependencies / build output
+node_modules/
+dist/
+build/
+.next/
+
+# env + secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# AI tool files (kept on disk, never tracked)
+.claude/
+CLAUDE.md
+AGENTS.md
